@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1921" height="674.48" viewBox="0 0 1921 674.48">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-miterlimit: 10;
+        fill: url(#linear-gradient);
+        stroke: url(#linear-gradient-2);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="311.6" y1="1391.6" x2="1552.31" y2="150.89" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1799e2"/>
+      <stop offset="1" stop-color="#22c5f2"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-1" y1="742.76" x2="1920" y2="742.76" xlink:href="#linear-gradient"/>
+  </defs>
+  <title>footer_v2</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <path class="cls-1" d="M1883.5,521.5a189.64,189.64,0,0,1-63.44-10.85,94.65,94.65,0,0,0-63.12,0,190.84,190.84,0,0,1-126.88,0,94.65,94.65,0,0,0-63.12,0,190.84,190.84,0,0,1-126.88,0,94.65,94.65,0,0,0-63.12,0,190.84,190.84,0,0,1-126.88,0,94.65,94.65,0,0,0-63.12,0,190.84,190.84,0,0,1-126.88,0,94.65,94.65,0,0,0-63.12,0,190.84,190.84,0,0,1-126.88,0,94.65,94.65,0,0,0-63.12,0,190.84,190.84,0,0,1-126.88,0,94.65,94.65,0,0,0-63.12,0,190.84,190.84,0,0,1-126.88,0,94.65,94.65,0,0,0-63.12,0,190.84,190.84,0,0,1-126.88,0,94.65,94.65,0,0,0-63.12,0A190.22,190.22,0,0,1-.5,407.9v671.6h1920V518.08A191,191,0,0,1,1883.5,521.5Z" transform="translate(1 -405.52)"/>
+  </g>
+</svg>
